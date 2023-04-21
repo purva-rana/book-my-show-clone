@@ -9,6 +9,8 @@ HOCs/Layouts:
     >>Default.Hoc.jsx
     >>Movie.Hoc.jsx
 
+rafce
+
 Components:
     >> Cast                 Cast.Component.jsx
     >> Entertainment        EntertainmentCard.Component.jsx
